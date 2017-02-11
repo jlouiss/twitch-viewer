@@ -17,6 +17,8 @@
     "pug-cli": "^1.0.0-alpha6",
     "sass-loader": "^5.0.1",
     "style-loader": "^0.13.1",
+    "uglify-js": "^2.7.5",
+    "uglifyjs-webpack-plugin": "^0.1.4",
     "webpack": "^2.2.1"
   },
   "scripts": {
