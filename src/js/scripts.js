@@ -68,4 +68,6 @@ import style from '../style.sass';
     $scope.isSet = tab => $scope.tab == tab;
   }
 
-})()
+})();
+
+console.log('Source code available here: https://github.com/jlouiss/twitch-viewer');
